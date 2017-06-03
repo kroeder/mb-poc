@@ -12,5 +12,6 @@
 
 1. Install python 2, node.js and .NET Framework
 2. Set VCTargetsPath (replace V120 with the latest version you find in this folder)
+
 ```set VCTargetsPath="C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120"```
 
