@@ -1,6 +1,16 @@
 # MB POC
 
+The project includes an OSC Client for interacting with the stage and an OSC Server (Stage).
+
 # Developer Guide
+
+## Environment
+
+### Client
+
+### Server (Stage)
+
+## Insallation
 
 1. Follow the instructions for your OS
 2. Checkout this repository
@@ -8,10 +18,13 @@
 4. `cd stage` > `npm start`
 5. `cd client` > `npm start`
 
-## Windows
+### Windows
 
 1. Install python 2, node.js and .NET Framework
 2. Set VCTargetsPath (replace V120 with the latest version you find in this folder)
 
-```set VCTargetsPath="C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120"```
+`set VCTargetsPath="C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120"`
 
+### Linux
+
+### Mac
