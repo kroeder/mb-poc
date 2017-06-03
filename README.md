@@ -21,8 +21,8 @@ The project includes an OSC Client for interacting with the stage and an OSC Ser
 ### Windows
 
 1. Install python: https://www.python.org/
-2. Install node.js: [https://nodejs.org/en/
-3. Install(Visual C++ Build Tools 2015: http://landinghub.visualstudio.com/visual-cpp-build-tools]
+2. Install node.js: https://nodejs.org/en/
+3. Install Visual C++ Build Tools 2015: http://landinghub.visualstudio.com/visual-cpp-build-tools]
 2. Set VCTargetsPath
 
 `set VCTargetsPath="C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140"`
